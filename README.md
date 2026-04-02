@@ -1,7 +1,5 @@
 # iPad Backend Project
 
-군 복무 중 iPad로 백엔드 개발 공부
-
 ## 📝 프로젝트 소개
 - Python + Flask를 이용한 REST API 개발
 - 보안을 고려한 백엔드 설계 학습
